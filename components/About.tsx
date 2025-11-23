@@ -9,7 +9,7 @@ export const About: React.FC = () => {
         
         {/* Header */}
         <div className="flex items-end gap-4 mb-16">
-           <h2 className="text-4xl md:text-5xl font-bold font-sans text-white">
+           <h2 className="text-3xl md:text-5xl font-bold font-sans text-white">
              SYSTEM_<span className="text-subtext">DIAGNOSTICS</span>
            </h2>
            <div className="h-[2px] flex-grow bg-surface2 mb-2 relative overflow-hidden">

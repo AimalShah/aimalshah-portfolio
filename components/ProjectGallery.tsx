@@ -30,7 +30,7 @@ const featuredProjects: Project[] = [
   {
     id: '3',
     title: '404-Studio Landing Page',
-    description: 'My personal Arch/Hyprland configuration',
+    description: 'A minimal creative landing page ',
     tech: ['NextJs', 'Tailwind', 'Framer Motion'],
     link: 'https://ncby2gymh9.ufs.sh/f/s5ruswA3u7NlQIMH6X2MzUcGg5Vu4R0xpvaj16l3HkDim7tL',
     image: '/assets/images/404-studio.png',

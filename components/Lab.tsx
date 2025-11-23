@@ -25,18 +25,18 @@ export const Lab: React.FC = () => {
     <section id="lab" className="py-24 px-6 bg-bg border-b border-surface2">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
-          <div>
-            <div className="flex items-center gap-3 text-neonGreen mb-2">
+          <div className="w-full md:w-auto">
+            <div className="flex items-center justify-center gap-3 text-neonGreen mb-2 w-full">
               <Beaker size={18} />
-              <span className="font-mono text-xs tracking-widest">
+              <span className="font-mono text-xs">
                 ACTIVE_RESEARCH_PROTOCOLS
               </span>
             </div>
-            <h2 className="text-3xl md:text-5xl font-bold font-sans text-white">
+            <h2 className="text-3xl md:text-5xl font-bold font-sans text-white text-center">
               THE_<span className="text-subtext">LAB</span>
             </h2>
           </div>
-          <p className="text-subtext font-mono text-sm max-w-md text-right md:text-left">
+          <p className="text-subtext font-mono text-sm max-w-md  md:text-left text-center">
             A collection of ongoing technical explorations. <br />
             Testing hypotheses and breaking things in a controlled environment.
           </p>

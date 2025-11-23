@@ -34,7 +34,7 @@ export const Story: React.FC = () => {
             <div className="max-w-4xl mx-auto">
                 <div className="flex flex-col md:flex-row justify-between items-end mb-8 md:mb-16">
                     <div>
-                        <h2 className="text-4xl md:text-5xl font-bold font-sans text-white mb-4">
+                        <h2 className="text-4xl md:text-5xl font-bold font-sans text-white mb-4 text-center md:text-left">
                             ORIGIN_<span className="text-neonCyan">LOGS</span>
                         </h2>
                         <p className="text-subtext font-mono flex items-center gap-2">
