@@ -34,7 +34,7 @@ export const Contact: React.FC = () => {
   };
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('aimal@example.com');
+    navigator.clipboard.writeText('aimalshah62@gmail.com');
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -65,9 +65,9 @@ export const Contact: React.FC = () => {
            <div className="space-y-4 font-mono text-sm">
               <h3 className="text-neonCyan text-xs tracking-widest mb-4">NETWORK_STATUS</h3>
               
-              <NetworkRow label="GITHUB_UPLINK" ping="14ms" url="https://github.com" icon={<Github size={14}/>} />
-              <NetworkRow label="LINKEDIN_RELAY" ping="28ms" url="https://linkedin.com" icon={<Linkedin size={14}/>} />
-              <NetworkRow label="X_FEED" ping="42ms" url="https://twitter.com" icon={<Twitter size={14}/>} />
+              <NetworkRow label="GITHUB_UPLINK" ping="14ms" url="https://github.com/aimalshah" icon={<Github size={14}/>} />
+              <NetworkRow label="LINKEDIN_RELAY" ping="28ms" url="https://www.linkedin.com/in/aimal-shah-8625b0249" icon={<Linkedin size={14}/>} />
+              <NetworkRow label="X_FEED" ping="42ms" url="https://x.com/aimalshah62" icon={<Twitter size={14}/>} />
               <div className="p-4 border border-surface2 bg-surface/30 flex justify-between items-center group hover:border-neonPink transition-colors">
                   <div className="flex items-center gap-3 text-subtext group-hover:text-white">
                       <Mail size={16} />

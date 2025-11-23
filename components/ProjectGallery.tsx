@@ -13,7 +13,7 @@ const featuredProjects: Project[] = [
     description: 'A 2D Tower Defense Game.',
     tech: ['Java', 'libGDX', 'Titled'],
     link: 'https://github.com/AimalShah/tower-of-mordoria',
-    image: towerImage,
+    image: "https://ncby2gymh9.ufs.sh/f/s5ruswA3u7Nl2D53mcEstrOzvcP30SsmUn4kNGI2jF8i1bpR",
     year: '2025',
     featured: true
   },
@@ -23,7 +23,7 @@ const featuredProjects: Project[] = [
     description: 'Campus Management System for TechnoSphereX.',
     tech: ['Nextjs', 'PostgreSQL', 'Neon', 'DrizzleORM'],
     link: 'https://github.com/AimalShah/techno-cms',
-    image: '/assets/images/techno.jpeg',
+    image: 'https://ncby2gymh9.ufs.sh/f/s5ruswA3u7NlQdScym2MzUcGg5Vu4R0xpvaj16l3HkDim7tL',
     year: '2025',
     featured: true
   },
@@ -32,7 +32,7 @@ const featuredProjects: Project[] = [
     title: '404-Studio Landing Page',
     description: 'My personal Arch/Hyprland configuration',
     tech: ['NextJs', 'Tailwind', 'Framer Motion'],
-    link: 'https://github.com/AimalShah/404-studios',
+    link: 'https://ncby2gymh9.ufs.sh/f/s5ruswA3u7NlQIMH6X2MzUcGg5Vu4R0xpvaj16l3HkDim7tL',
     image: '/assets/images/404-studio.png',
     year: '2025',
     featured: true
@@ -43,7 +43,7 @@ const featuredProjects: Project[] = [
     description: 'A portfolio project of video editor.',
     tech: ['React', 'Framer Motion'],
     link: 'https://github.com/AimalShah/portfolio-project',
-    image: '/assets/images/portfolio-project.png',
+    image: 'https://ncby2gymh9.ufs.sh/f/s5ruswA3u7NlwVIBgHRUYmjaSlH8UEDT3v4iAbcVtJOIz5xq',
     year: '2024',
     featured: true
   }
